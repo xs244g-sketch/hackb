@@ -14,12 +14,7 @@
     "discord.js-selfbot-v13": "^3.6.1",
     "node-capmonster": "^0.4.2",
     "wio.db": "^4.0.22"
-  },
-  "engines": {
-    "node": "16.x"
-  },
-  "license": "MIT"
-}
+    
 "engines": {
   "node": "20.x"
 }
